@@ -39,6 +39,9 @@ Wait for the correct run of the script and then close the terminal. Now continue
 
 If you want to support me donate monero coins at: 4B9WQivaHfd3miDfPKEfCianocGpBx9d8FXycz2vmNW3aBDVKHgkBd9Gmapt4RBVEpTwnehujsiUBBehUiLvnEHs7VFstCC
 
+Bitcoin:
+bc1qff3uyjz3zrtz6h6g8aydph70hhlcj9t3q2ynw4
+
 Paypal:
 https://www.paypal.me/francescodisales
 
