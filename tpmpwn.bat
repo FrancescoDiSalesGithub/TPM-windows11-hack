@@ -1,3 +1,2 @@
-reg add HKLM\system\setup\LabConfig /v BypassTPMCheck /d 1
-reg add HKLM\system\setup\LabConfig /v BypassRAMCheck /d 1
-reg add HKLM\system\setup\LabConfig /v Bypasssecurebootcheck /d 1
+reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassTPMCheck /t REG_DWORD /d 00000001
+reg add HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig /v BypassSecureBootCheck /t REG_DWORD /d 00000001
