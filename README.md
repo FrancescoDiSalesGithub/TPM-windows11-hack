@@ -31,7 +31,7 @@ dir
 when you run the command **dir** you should be able to see this file: **tpmpwn.bat**
 If so run the script by doing:
 
-`tpmpwn.bat`
+`TPMPWN.bat`
 
 Wait for the correct run of the script and then close the terminal. Now continue the installation and you should be able to bypass the tpm block and start to test your windows 11 virtual machine.
 
